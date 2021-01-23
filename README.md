@@ -17,4 +17,10 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Widgets
+
+https://www.netlifycms.org/docs/widgets/#select
+
+## Link
+
+https://zen-noether-e2af50.netlify.app/
